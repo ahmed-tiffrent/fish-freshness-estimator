@@ -2,7 +2,13 @@
 
 A deep learning model and Streamlit web app that rates a fish as Highly Fresh, Fresh or Not Fresh from a photo of its eye. It aims to replace slow and subjective manual checks with a quick, repeatable one.
 
-Final year project for the MSc and Engineer degree in Computer Science at ESI-SBA (Algeria), 2025, supervised by Dr Khaldi Belkacem. The full write-up is in [docs/fish-freshness-paper.pdf](docs/fish-freshness-paper.pdf).
+Final year project for the Engineer and Master degrees in Computer Science (Ingénierie des Systèmes Informatiques) at ESI-SBA, Algeria, 2025, supervised by Dr Khaldi Belkacem.
+
+## Documents
+
+- [Engineer thesis](docs/engineer-thesis.pdf): the full project, from background to dataset, model design, training, evaluation and the app.
+- [Master thesis](docs/master-thesis.pdf): background and a review of existing fish freshness detection methods.
+- [Paper](docs/fish-freshness-paper.pdf): a short summary of the method and results.
 
 <!-- Placeholder: add a screenshot of the app here -->
 
